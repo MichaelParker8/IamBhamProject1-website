@@ -1,3 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
+.custommargin{
+    margin:5% 15%;
+}
